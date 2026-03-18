@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "4U",
+  "base_artist": "三宅健",
+  "createdAt": "2026-03-18T12:45:51.360272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Pi’erre Bourne",
+      "has_synced": true,
+      "path": "select/01_4U_Pi’erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance 4U",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/02_Dance_4U_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Deeper",
+      "has_synced": false,
+      "path": "select/03_4U_Deeper.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Ofenbach",
+      "has_synced": true,
+      "path": "select/04_4U_Ofenbach.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/05_4U_Korn.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All the Way / 4U",
+      "artist": "Poets of the Fall",
+      "has_synced": false,
+      "path": "select/06_All_the_Way___4U_Poets_of_the_Fall.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Say Say Say (Waiting 4U)",
+      "artist": "Hi_Tack",
+      "has_synced": false,
+      "path": "select/07_Say_Say_Say_(Waiting_4U)_Hi_Tack.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "4u",
+      "artist": "PERSONPERSON",
+      "has_synced": true,
+      "path": "select/08_4u_PERSONPERSON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Jeff Scott Soto",
+      "has_synced": true,
+      "path": "select/09_4U_Jeff_Scott_Soto.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All the Way \u0000 4U",
+      "artist": "Poets of the Fall",
+      "has_synced": true,
+      "path": "select/10_All_the_Way_\u0000_4U_Poets_of_the_Fall.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Jex feat. Convex",
+      "has_synced": true,
+      "path": "select/11_4U_Jex_feat._Convex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4u (feat. Jex Jordyn)",
+      "artist": "Convex",
+      "has_synced": true,
+      "path": "select/12_4u_(feat._Jex_Jordyn)_Convex.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "4u",
+      "artist": "Blackbear",
+      "has_synced": true,
+      "path": "select/13_4u_Blackbear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "4u",
+      "artist": "Blackbear",
+      "has_synced": true,
+      "path": "select/14_4u_Blackbear.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "4U",
+      "artist": "Korn",
+      "has_synced": true,
+      "path": "select/15_4U_Korn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4U",
+      "artist": "三宅健",
+      "has_synced": false,
+      "path": "select/pl_01_4U_三宅健.txt"
+    }
+  ]
+}
